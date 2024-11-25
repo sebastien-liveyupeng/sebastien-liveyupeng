@@ -19,6 +19,8 @@ Projets :
   https://github.com/sebastien-liveyupeng/tictac
 - Bloom Petals - :
   https://github.com/sebastien-liveyupeng/bloom-petals
+- Mes réseaux sociaux :
+  <img src="https://github.com/user-attachments/assets/e66d5624-590a-4e61-9dc5-cc289821fd69" alt="Logo du projet" width="20"><a href=https://www.instagram.com/sebastienyupeng/>Instgram</a>
 
 <!---
 sebastien-liveyupeng/sebastien-liveyupeng is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
