@@ -2,7 +2,7 @@
 
 - # Hello! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" height="30px" /> Je suis Live Yu Peng Sébastien apprenti Dev Web
   --------------------------------------------------------------------
-- 🌱 J'apprends actuellement python
+- 🌱 J'apprends actuellement Python , React et Javascript
 - Quelques projets finis que vous pourrez voir dans mes "repository" comme par exemple "https://github.com/sebastien-liveyupeng/mada"
 - Vous pouvez me contacter via mon Email : liveyupengsebastien@gmail.com
 ------------------------------------------------------------------------------------
