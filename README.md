@@ -6,10 +6,11 @@
 
 
 - # Hello! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" height="30px" /> Je suis Live Yu Peng Sébastien apprenti Dev Web
+  --------------------------------------------------------------------
 - 🌱 J'apprends actuellement python
 - Quelques projets finis que vous pourrez voir dans mes "repository" comme par exemple "https://github.com/sebastien-liveyupeng/mada"
 - Vous pouvez me contacter via mon Email : liveyupengsebastien@gmail.com
-
+------------------------------------------------------------------------------------
 Projets :
 - fansite imagine dragons - :
   https://deployfansite2.vercel.app/
@@ -18,7 +19,8 @@ Projets :
 - TIC TAC TOE  - :
   https://github.com/sebastien-liveyupeng/tictac
 - Bloom Petals - :
-  https://github.com/sebastien-liveyupeng/bloom-petals 
+  https://github.com/sebastien-liveyupeng/bloom-petals
+  ---------------------------------------------------------------------------
 - Mes réseaux sociaux :
   
 <img src="https://github.com/user-attachments/assets/e66d5624-590a-4e61-9dc5-cc289821fd69" alt="instagram" width="20"><a href=https://www.instagram.com/sebastienyupeng/>Instgram</a>
