@@ -1,3 +1,7 @@
+![Photographie Studio Facebook Couverture](https://github.com/user-attachments/assets/2364db7d-14f7-495e-891e-7f3f33a6b205)
+
+
+
 - 👋 Hi, je suis Live Yu Peng Sébastien apprenti Dev Web
 - 🌱 J'apprends actuellement python
 - Quelques projets finis que vous pourrez voir dans mes "repository" comme par exemple "https://github.com/sebastien-liveyupeng/mada"
