@@ -11,6 +11,14 @@
 - Quelques projets finis que vous pourrez voir dans mes "repository" comme par exemple "https://github.com/sebastien-liveyupeng/mada"
 - Vous pouvez me contacter via mon Email : liveyupengsebastien@gmail.com
 ------------------------------------------------------------------------------------
+-Langues:
+
+ -Français:<img src="https://github.com/user-attachments/assets/802b605b-8b4e-44a7-a2b8-374b39883293" alt="flag" width="20">(langue natif)
+ 
+ -Anglais:<img src="https://github.com/user-attachments/assets/e6521ca8-bb60-4cef-99e4-6d053658de83" alt="flag" width="20">(langue acquise)
+
+ 
+---------------------------------------------------------------------------------------------------------------------
 Projets :
 - fansite imagine dragons - :
   https://deployfansite2.vercel.app/
@@ -20,6 +28,7 @@ Projets :
   https://github.com/sebastien-liveyupeng/tictac
 - Bloom Petals - :
   https://github.com/sebastien-liveyupeng/bloom-petals
+  
   ---------------------------------------------------------------------------
 - Mes réseaux sociaux :
   
