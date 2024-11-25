@@ -1,10 +1,5 @@
 ![Photographie Studio Facebook Couverture (5)](https://github.com/user-attachments/assets/fca82604-efa2-40a8-b564-67de32b6d914)
 
-
-
-
-
-
 - # Hello! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" height="30px" /> Je suis Live Yu Peng Sébastien apprenti Dev Web
   --------------------------------------------------------------------
 - 🌱 J'apprends actuellement python
@@ -16,6 +11,15 @@
  -Français:<img src="https://github.com/user-attachments/assets/802b605b-8b4e-44a7-a2b8-374b39883293" alt="flag" width="20">(langue natif)
  
  -Anglais:<img src="https://github.com/user-attachments/assets/e6521ca8-bb60-4cef-99e4-6d053658de83" alt="flag" width="20">(langue acquise)
+
+ ------------------------------------------------------------------------------
+ Outils:
+
+<img src="https://github.com/user-attachments/assets/3c96c295-3d1f-4af4-893c-5827c3946b94" alt="vscode" width="40"><img src="https://github.com/user-attachments/assets/c261e4cd-2bf4-43f9-8212-cf2f5ae5d2b4" alt="vscode" width="40"><img src="https://github.com/user-attachments/assets/23b83cfe-ffb8-4a93-9f39-51f3396cd1f0" alt="vscode" width="40"><img src="https://github.com/user-attachments/assets/333f6bcd-8500-44b3-9c78-2b4a1ef8458f" alt="vscode" width="40">
+
+
+
+
 
  
 ---------------------------------------------------------------------------------------------------------------------
@@ -35,7 +39,16 @@ Projets :
 <img src="https://github.com/user-attachments/assets/e66d5624-590a-4e61-9dc5-cc289821fd69" alt="instagram" width="20"><a href=https://www.instagram.com/sebastienyupeng/>Instgram</a>
 
 <img src="https://github.com/user-attachments/assets/0c7ad70c-80dc-468e-b2e9-78ec8064d491" alt="facebook" width="20"><a href=https://www.facebook.com/sebastienlive.000/>Facebook</a>
+
+-----------------------------------------------------------------------------
+Merci d'avoir visité mon profil  et au plaisir de se revoir 😃
 <!---
 sebastien-liveyupeng/sebastien-liveyupeng is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
+
+
+
+
+
+
