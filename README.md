@@ -2,14 +2,14 @@
 
 
 
-- 👋 Hi, je suis Live Yu Peng Sébastien apprenti Dev Web
+- # Hello! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" height="30px" /> Je suis Live Yu Peng Sébastien apprenti Dev Web
 - 🌱 J'apprends actuellement python
 - Quelques projets finis que vous pourrez voir dans mes "repository" comme par exemple "https://github.com/sebastien-liveyupeng/mada"
 - Vous pouvez me contacter via mon Email : liveyupengsebastien@gmail.com
 
 Projets :
-  -fansite imagine dragons :
-  
+-fansite imagine dragons- :
+  https://deployfansite2.vercel.app/
   ![Capture d'écran 2024-11-25 110301](https://github.com/user-attachments/assets/0058dfaa-941b-48b9-905c-119c57ecd499)
 
 <!---
