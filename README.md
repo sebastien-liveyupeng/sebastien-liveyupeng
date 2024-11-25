@@ -1,6 +1,6 @@
 - 👋 Hi, je suis Live Yu Peng Sébastien apprenti Dev Web
 - 🌱 J'apprends actuellement python
-- Quelques projets finis que vous pourrez voir dans mes "repository"
+- Quelques projets finis que vous pourrez voir dans mes "repository" comme par exemple "https://github.com/sebastien-liveyupeng/mada"
 - Vous pouvez me contacter via mon Email : liveyupengsebastien@gmail.com
 
 
