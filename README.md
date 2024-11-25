@@ -8,10 +8,12 @@
 - Vous pouvez me contacter via mon Email : liveyupengsebastien@gmail.com
 
 Projets :
--fansite imagine dragons- :
+- fansite imagine dragons - :
   https://deployfansite2.vercel.app/
   ![Capture d'écran 2024-11-25 110301](https://github.com/user-attachments/assets/0058dfaa-941b-48b9-905c-119c57ecd499)
 
+- TIC TAC TOE  - :
+  https://github.com/sebastien-liveyupeng/tictac
 <!---
 sebastien-liveyupeng/sebastien-liveyupeng is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
