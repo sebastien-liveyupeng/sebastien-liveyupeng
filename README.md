@@ -14,6 +14,8 @@ Projets :
 
 - TIC TAC TOE  - :
   https://github.com/sebastien-liveyupeng/tictac
+- Bloom Petals - :
+  https://github.com/sebastien-liveyupeng/bloom-petals
 <!---
 sebastien-liveyupeng/sebastien-liveyupeng is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
