@@ -34,11 +34,7 @@ Projets :
   https://github.com/sebastien-liveyupeng/bloom-petals
   
   ---------------------------------------------------------------------------
-- Mes réseaux sociaux :
-  
-<img src="https://github.com/user-attachments/assets/e66d5624-590a-4e61-9dc5-cc289821fd69" alt="instagram" width="20"><a href=https://www.instagram.com/sebastienyupeng/>Instgram</a>
 
-<img src="https://github.com/user-attachments/assets/0c7ad70c-80dc-468e-b2e9-78ec8064d491" alt="facebook" width="20"><a href=https://www.facebook.com/sebastienlive.000/>Facebook</a>
 
 -----------------------------------------------------------------------------
 Merci d'avoir visité mon profil  et au plaisir de se revoir 😃
