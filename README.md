@@ -21,7 +21,7 @@
 
 Réseaux :
 
-<a href="https://www.linkedin.com/in/s%C3%A9bastien-live-yu-peng-62713733b/"> linkedin <img src="https://github.com/user-attachments/assets/fc61f229-5ca3-4c92-96be-d7e0f7120665" alt="vscode" width="40"></a>
+<a href="https://www.linkedin.com/in/s%C3%A9bastien-live-yu-peng-62713733b/"> linkedin <img src="https://github.com/user-attachments/assets/fc61f229-5ca3-4c92-96be-d7e0f7120665" alt="vscode" width="20"></a>
 
 
  
