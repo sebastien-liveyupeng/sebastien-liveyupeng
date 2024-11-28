@@ -17,8 +17,11 @@
 
 <img src="https://github.com/user-attachments/assets/3c96c295-3d1f-4af4-893c-5827c3946b94" alt="vscode" width="40"><img src="https://github.com/user-attachments/assets/c261e4cd-2bf4-43f9-8212-cf2f5ae5d2b4" alt="vscode" width="40"><img src="https://github.com/user-attachments/assets/23b83cfe-ffb8-4a93-9f39-51f3396cd1f0" alt="vscode" width="40"><img src="https://github.com/user-attachments/assets/333f6bcd-8500-44b3-9c78-2b4a1ef8458f" alt="vscode" width="40">
 
+------------------------------------------------------------------------------
 
+Réseaux :
 
+<a href="https://www.linkedin.com/in/s%C3%A9bastien-live-yu-peng-62713733b/">linkedin<img src="https://github.com/user-attachments/assets/5b369679-305c-40ba-8bca-d268045559ff" alt="linkedin" widht="20"></a>
 
 
  
