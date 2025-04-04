@@ -1,46 +1,72 @@
 ![Photographie Studio Facebook Couverture (5)](https://github.com/user-attachments/assets/fca82604-efa2-40a8-b564-67de32b6d914)
 
-- # Hello! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" height="30px" /> Je suis Live Yu Peng Sébastien apprenti Dev Web
-  --------------------------------------------------------------------
-- 🌱 J'apprends actuellement Python , React et Javascript
-- Quelques projets finis que vous pourrez voir dans mes "repository" comme par exemple "https://github.com/sebastien-liveyupeng/mada"
-- Vous pouvez me contacter via mon Email : liveyupengsebastien@gmail.com
-------------------------------------------------------------------------------------
--Langues:
+<div align="center">
+  <img height="150" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif"  />
+</div>
 
- -Français:<img src="https://github.com/user-attachments/assets/802b605b-8b4e-44a7-a2b8-374b39883293" alt="flag" width="20">(langue natif)
- 
- -Anglais:<img src="https://github.com/user-attachments/assets/e6521ca8-bb60-4cef-99e4-6d053658de83" alt="flag" width="20">(langue acquise)
+###
 
- ------------------------------------------------------------------------------
- Outils:
+<div align="center">
+  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
+  <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="youtube logo"  />
+  <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="twitter logo"  />
+</div>
 
-<img src="https://github.com/user-attachments/assets/3c96c295-3d1f-4af4-893c-5827c3946b94" alt="vscode" width="40"><img src="https://github.com/user-attachments/assets/c261e4cd-2bf4-43f9-8212-cf2f5ae5d2b4" alt="vscode" width="40"><img src="https://github.com/user-attachments/assets/23b83cfe-ffb8-4a93-9f39-51f3396cd1f0" alt="vscode" width="40"><img src="https://github.com/user-attachments/assets/333f6bcd-8500-44b3-9c78-2b4a1ef8458f" alt="vscode" width="40">
+###
 
-------------------------------------------------------------------------------
+<div align="center">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=maurodesouza.maurodesouza&"  />
+</div>
 
-Réseaux :
+###
 
-<a href="https://www.linkedin.com/in/s%C3%A9bastien-live-yu-peng-62713733b/"> linkedin <img src="https://github.com/user-attachments/assets/fc61f229-5ca3-4c92-96be-d7e0f7120665" alt="vscode" width="20"></a>
+<h1 align="center">hey there 👋</h1>
 
+###
 
- 
----------------------------------------------------------------------------------------------------------------------
-Projets :
-- fansite imagine dragons - :
-  https://deployfansite2.vercel.app/
-  ![Capture d'écran 2024-11-25 110301](https://github.com/user-attachments/assets/0058dfaa-941b-48b9-905c-119c57ecd499)
+<h3 align="left">👩‍💻  About Me</h3>
 
-- TIC TAC TOE  - :
-  https://github.com/sebastien-liveyupeng/tictac
-- Bloom Petals - :
-  https://github.com/sebastien-liveyupeng/bloom-petals
-  
-  ---------------------------------------------------------------------------
+###
 
+<p align="left">I'm ... from ....<br><br>- 🔭 I’m working as ...<br>- 📚 I'm currently learning ...<br>- ⚡ In my free time I ...</p>
 
------------------------------------------------------------------------------
-Merci d'avoir visité mon profil  et au plaisir de se revoir 😃
+###
+
+<h3 align="left">🛠 Language and tools</h3>
+
+###
+
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original-wordmark.svg" height="40" alt="go logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rust/rust-original.svg" height="40" alt="rust logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ruby/ruby-plain-wordmark.svg" height="40" alt="ruby logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-plain-wordmark.svg" height="40" alt="dot-net logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain-wordmark.svg" height="40" alt="firebase logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-line-wordmark.svg" height="40" alt="amazonwebservices logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/circleci/circleci-plain.svg" height="40" alt="circleci logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" height="40" alt="kubernetes logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain-wordmark.svg" height="40" alt="docker logo"  />
+</div>
+
+###
+
+<h3 align="left">🔥   My Stats :</h3>
+
+###
+
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=maurodesouza&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
+</div>
+
+###
 <!---
 sebastien-liveyupeng/sebastien-liveyupeng is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
