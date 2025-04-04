@@ -30,7 +30,7 @@
 
 ###
 
-<
+
 
 ###
 
@@ -52,9 +52,17 @@
 <div align="center">
   <h1>Actuellement en recherche d'alternance pour Septembre 2025 , je suis ouvert à tout offre . Voici les moyens de me contacter :</h1>
 </div>
+
+<div>
+  <ul>
+        <li>Email : sebastien.live-yu-peng@laplateforme.io</li>
+        <li>Mobile : 07 66 41 66 52</li>
+        <li><a href="https://www.linkedin.com/in/s%C3%A9bastien-live-yu-peng-62713733b/">Linkedin</li>
+    </ul>
+</div>
 ###
 
-###
+
 <!---
 sebastien-liveyupeng/sebastien-liveyupeng is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
