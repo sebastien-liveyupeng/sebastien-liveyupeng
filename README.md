@@ -46,13 +46,13 @@
 
 ###
 
-<h3 align="left">🔥   My Stats :</h3>
+<hr>
 
 ###
-
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=maurodesouza&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
+  <h1>Actuellement en recherche d'alternance pour Septembre 2025 , je suis ouvert à tout offre . Voici les moyens de me contacter :</h1>
 </div>
+###
 
 ###
 <!---
