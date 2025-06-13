@@ -27,7 +27,7 @@ Salut ! Je suis **Sébastien Live Yu Peng**, étudiant développeur passionné a
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/embeddedc/embeddedc-original.svg" width="20" height="20" alt="Target" /> **En recherche active d'alternance pour septembre 2025** - Ouvert à toutes opportunités !
 
-<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="20" height="20" alt="Coding" /> Je me spécialise dans le développement web avec une préférence marquée pour **TailwindCSS** et les technologies modernes.
+
 
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="25" height="25"> Technologies & Compétences
 
