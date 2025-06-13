@@ -1,4 +1,4 @@
-![Header](https://github.com/user-attachments/assets/fca82604-efa2-40a8-b564-67de32b6d914)
+
 
 <div align="center">
   <img height="150" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" alt="Coding Animation" />
