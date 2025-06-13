@@ -19,74 +19,78 @@
 
 ---
 
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" width="100%">
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People%20with%20professions/Technologist.png" alt="Technologist" width="25" height="25" /> À propos de moi
+## <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px" height="30px"> À propos de moi
 
 Salut ! Je suis **Sébastien Live Yu Peng**, étudiant développeur passionné actuellement en formation à **La Plateforme**. 
 
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Bullseye.png" alt="Target" width="20" height="20" /> **En recherche active d'alternance pour septembre 2025** - Ouvert à toutes opportunités !
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/embeddedc/embeddedc-original.svg" width="20" height="20" alt="Target" /> **En recherche active d'alternance pour septembre 2025** - Ouvert à toutes opportunités !
 
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Laptop.png" alt="Laptop" width="20" height="20" /> Je me spécialise dans le développement web avec une préférence marquée pour **TailwindCSS** et les technologies modernes.
+<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="20" height="20" alt="Coding" /> Je me spécialise dans le développement web avec une préférence marquée pour **TailwindCSS** et les technologies modernes.
 
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Hammer%20and%20Wrench.png" alt="Tools" width="25" height="25" /> Technologies & Compétences
+## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="25" height="25"> Technologies & Compétences
 
 <div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="45" alt="HTML5" title="HTML5" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="45" alt="CSS3" title="CSS3" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="45" alt="JavaScript" title="JavaScript" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="45" alt="PHP" title="PHP" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="45" alt="MySQL" title="MySQL" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="45" alt="Bootstrap" title="Bootstrap" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" height="45" alt="TailwindCSS" title="TailwindCSS" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,php,mysql,bootstrap,tailwind,git,github" alt="Tech Stack" />
 </div>
 
-### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Rocket.png" alt="Rocket" width="20" height="20" /> Stack technique
+### <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="20" height="20" alt="Rocket" /> Stack technique
 - **Frontend** : HTML5, CSS3, JavaScript, TailwindCSS, Bootstrap
 - **Backend** : PHP
 - **Base de données** : MySQL
 - **Outils** : Git, GitHub
 
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Bar%20Chart.png" alt="Chart" width="25" height="25" /> Statistiques GitHub
+## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="25" height="25" alt="Chart"> Statistiques GitHub
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sebastien-liveyupeng&theme=tokyonight&show_icons=true&hide_border=true&count_private=true" alt="GitHub Stats" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sebastien-liveyupeng&theme=tokyonight&show_icons=true&hide_border=true&layout=compact" alt="Top Languages" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api?username=sebastien-liveyupeng&theme=radical&show_icons=true&hide_border=true&count_private=true&include_all_commits=true" alt="GitHub Stats" height="180" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sebastien-liveyupeng&theme=radical&show_icons=true&hide_border=true&layout=compact&langs_count=8" alt="Top Languages" height="180" />
 </div>
 
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Bullseye.png" alt="Target" width="25" height="25" /> Objectifs 2025
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sebastien-liveyupeng&theme=radical&hide_border=true" alt="GitHub Streak" />
+</div>
 
-- <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Symbols/Check%20Mark.png" alt="Check" width="16" height="16" /> Maîtriser TailwindCSS
-- <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Symbols/Clockwise%20Vertical%20Arrows.png" alt="Progress" width="16" height="16" /> Approfondir JavaScript moderne (ES6+)
-- <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Bullseye.png" alt="Target" width="16" height="16" /> Décrocher une alternance enrichissante
-- <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Books.png" alt="Books" width="16" height="16" /> Explorer de nouveaux frameworks
+## <img src="https://media.giphy.com/media/j2pOGeGYKe2xCCKwfi/giphy.gif" width="25" height="25" alt="Target"> Objectifs 2025
 
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Telephone.png" alt="Phone" width="25" height="25" /> Me contacter
+<table>
+<tr>
+<td>
+
+- <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="20" height="20" alt="Check" /> Maîtriser TailwindCSS
+- <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Rocket.gif" width="20" height="20" alt="Progress" /> Approfondir JavaScript moderne (ES6+)
+
+</td>
+<td>
+
+- <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="20" height="20" alt="Target" /> Décrocher une alternance enrichissante
+- <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Medal.gif" width="20" height="20" alt="Books" /> Explorer de nouveaux frameworks
+
+</td>
+</tr>
+</table>
+
+## <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Handshake.gif" width="25" height="25" alt="Contact"> Me contacter
 
 <div align="center">
   
-**<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Magnifying%20Glass%20Tilted%20Left.png" alt="Search" width="20" height="20" /> Actuellement en recherche d'alternance pour septembre 2025**
+**<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Rocket.gif" width="20" height="20" alt="Search" /> Actuellement en recherche d'alternance pour septembre 2025**
 
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/E-Mail.png" alt="Email" width="20" height="20" /> **Email** : sebastien.live-yu-peng@laplateforme.io  
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Mobile%20Phone.png" alt="Mobile" width="20" height="20" /> **Mobile** : 07 66 41 66 52  
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Briefcase.png" alt="Briefcase" width="20" height="20" /> **LinkedIn** : [Sébastien Live Yu Peng](https://www.linkedin.com/in/s%C3%A9bastien-live-yu-peng-62713733b/)
+<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Gmail.gif" width="20" height="20" alt="Email" /> **Email** : sebastien.live-yu-peng@laplateforme.io  
+<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Phone.gif" width="20" height="20" alt="Mobile" /> **Mobile** : 07 66 41 66 52  
+<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/LinkedIn.gif" width="20" height="20" alt="LinkedIn" /> **LinkedIn** : [Sébastien Live Yu Peng](https://www.linkedin.com/in/s%C3%A9bastien-live-yu-peng-62713733b/)
 
 *N'hésitez pas à me contacter pour toute opportunité ou collaboration !*
 
 </div>
 
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" width="100%">
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=sebastien-liveyupeng&color=blueviolet&style=flat-square&label=Visiteurs" alt="Profile Views" />
 </div>
 
 <div align="center">
-  <i><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/High%20Voltage.png" alt="Lightning" width="16" height="16" /> "Le code est de la poésie écrite dans un langage logique" <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/High%20Voltage.png" alt="Lightning" width="16" height="16" /></i>
+  <i><img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Lightning.gif" width="16" height="16" alt="Lightning" /> "Le code est de la poésie écrite dans un langage logique" <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Lightning.gif" width="16" height="16" alt="Lightning" /></i>
 </div>
