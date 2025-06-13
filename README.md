@@ -75,7 +75,7 @@ Salut ! Je suis **Sébastien Live Yu Peng**, étudiant développeur passionné a
 
 <div align="center">
   
-**<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Rocket.gif" width="20" height="20" alt="Search" /> Actuellement en recherche d'alternance pour septembre 2025**
+** Actuellement en recherche d'alternance pour septembre 2025**
 
 <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Gmail.gif" width="20" height="20" alt="Email" /> **Email** : sebastien.live-yu-peng@laplateforme.io  
 <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Phone.gif" width="20" height="20" alt="Mobile" /> **Mobile** : 07 66 41 66 52  
