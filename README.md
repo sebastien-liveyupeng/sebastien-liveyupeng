@@ -39,7 +39,7 @@ Salut ! Je suis **Sébastien Live Yu Peng**, étudiant développeur passionné a
 - **Frontend** : HTML5, CSS3, JavaScript, TailwindCSS, Bootstrap
 - **Backend** : PHP
 - **Base de données** : MySQL
-- **Outils** : Git, GitHub
+- **Outils** : Git, GitHub , Figma , Trello , Looping , PhpMyAdmin
 
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="25" height="25" alt="Chart"> Statistiques GitHub
 
