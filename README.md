@@ -52,7 +52,7 @@ Salut ! Je suis **Sébastien Live Yu Peng**, étudiant développeur passionné a
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=sebastien-liveyupeng&theme=radical&hide_border=true" alt="GitHub Streak" />
 </div>
 
-## <img src="https://media.giphy.com/media/j2pOGeGYKe2xCCKwfi/giphy.gif" width="25" height="25" alt="Target"> Objectifs 2025
+## Objectifs 2025
 
 <table>
 <tr>
@@ -71,7 +71,7 @@ Salut ! Je suis **Sébastien Live Yu Peng**, étudiant développeur passionné a
 </tr>
 </table>
 
-## <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Handshake.gif" width="25" height="25" alt="Contact"> Me contacter
+##  Me contacter
 
 <div align="center">
   
