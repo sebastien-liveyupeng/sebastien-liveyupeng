@@ -58,8 +58,8 @@ Salut ! Je suis **Sébastien Live Yu Peng**, étudiant développeur passionné a
 <tr>
 <td>
 
-- <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="20" height="20" alt="Check" /> Maîtriser Typescript
-- <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Rocket.gif" width="20" height="20" alt="Progress" /> Approfondir React
+-  Maîtriser Typescript
+- Approfondir React
 
 </td>
 <td>
