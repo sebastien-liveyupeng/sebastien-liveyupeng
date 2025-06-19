@@ -30,7 +30,11 @@ Salut ! Je suis **Sébastien Live Yu Peng**, étudiant développeur passionné a
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="25" height="25"> Technologies & Compétences
 
 <div align="center">
+<div style="text-align: center;">
   <img src="https://skillicons.dev/icons?i=html,css,js,php,mysql,react,tailwind,git,github,figma,express,node" alt="Tech Stack" />
+  <p>Stack : HTML, CSS, JavaScript, PHP, MySQL, React, Tailwind, Git, GitHub, Figma, Express, <strong>Node.js</strong></p>
+</div>
+
 </div>
 
 ### <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="20" height="20" alt="Rocket" /> Stack technique
