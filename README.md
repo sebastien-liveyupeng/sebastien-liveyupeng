@@ -32,7 +32,7 @@ Salut ! Je suis **Sébastien Live Yu Peng**, étudiant développeur passionné a
 <div align="center">
 <div style="text-align: center;">
   <img src="https://skillicons.dev/icons?i=html,css,js,php,mysql,react,tailwind,git,github,figma,express,node" alt="Tech Stack" />
-  <p>Stack : HTML, CSS, JavaScript, PHP, MySQL, React, Tailwind, Git, GitHub, Figma, Express, <strong>Node.js</strong></p>
+
 </div>
 
 </div>
