@@ -39,7 +39,7 @@ Salut ! Je suis **Sébastien Live Yu Peng**, étudiant développeur passionné a
 
 ### <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="20" height="20" alt="Rocket" /> Stack technique
 - **Frontend** : HTML5, CSS3, JavaScript, TailwindCSS, Bootstrap
-- **Backend** : PHP
+- **Backend** : PHP, Node.js + Express
 - **Base de données** : MySQL
 - **Outils** : Git, GitHub , Figma , Trello , Looping , PhpMyAdmin
 
